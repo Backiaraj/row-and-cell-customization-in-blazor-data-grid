@@ -34,8 +34,7 @@ dotnet build
 
 **Documentation**: 
 
-* https://blazor.syncfusion.com/documentation/datagrid/cell
-
-* https://blazor.syncfusion.com/documentation/datagrid/row
+* https://help.syncfusion.com/grid-sdk/blazor/data-grid/cell
+* https://help.syncfusion.com/grid-sdk/blazor/data-grid/row
 
 **Online examples**: https://blazor.syncfusion.com/demos/datagrid/cell-formatting?theme=fluent2
